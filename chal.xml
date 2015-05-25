@@ -13,7 +13,7 @@
               <block type="robot_delay" id="64" inline="true">
                 <value name="DELAY">
                   <block type="math_number" id="71">
-                    <field name="NUM">4008</field>
+                    <field name="NUM">1000</field>
                   </block>
                 </value>
                 <next>
@@ -31,7 +31,7 @@
                               <block type="robot_delay" id="113" inline="true">
                                 <value name="DELAY">
                                   <block type="math_number" id="120">
-                                    <field name="NUM">3008</field>
+                                    <field name="NUM">1000</field>
                                   </block>
                                 </value>
                                 <next>
@@ -49,7 +49,7 @@
                                               <block type="robot_delay" id="159" inline="true">
                                                 <value name="DELAY">
                                                   <block type="math_number" id="166">
-                                                    <field name="NUM">2008</field>
+                                                    <field name="NUM">1000</field>
                                                   </block>
                                                 </value>
                                                 <next>
@@ -67,7 +67,7 @@
                                                               <block type="robot_delay" id="218" inline="true">
                                                                 <value name="DELAY">
                                                                   <block type="math_number" id="225">
-                                                                    <field name="NUM">1008</field>
+                                                                    <field name="NUM">10000</field>
                                                                   </block>
                                                                 </value>
                                                                 <next>
